@@ -1,0 +1,9 @@
+.bodyDash{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cardDash{
+    margin-left: 10px;
+}
